@@ -1,9 +1,22 @@
 body {
 
 background-color: blue;
-background-image: url("lbj1.jpg");
+background-image: url("kingj.jpg");
 
 color: violet;
 
 
 }
+
+div.a {
+  font-size: 35px;
+  color: red;
+}
+
+div.b {
+  font-size: 25px;
+  color: green;
+}
+
+
+kingj
